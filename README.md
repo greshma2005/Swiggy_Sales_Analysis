@@ -1,63 +1,71 @@
 # Swiggy_Sales_Analysis
-## 🍽️ Swiggy Sales Analysis Dashboard
-### 📌 Project Overview
+## 🚀 Project Overview
 
-This project focuses on analyzing Swiggy food order data to derive meaningful business insights using key performance indicators (KPIs) and visual analytics.
-The goal is to understand sales trends, customer satisfaction, and ordering patterns to support data-driven decision-making.
+This project delivers an end-to-end data analytics solution for a food delivery platform by transforming raw order data into actionable business insights and interactive dashboards.
+It demonstrates the ability to Work with real-world datasets and build meaningful KPIs
 
-### 🎯 Problem Statement
+## 🎯 Business Objective
+To analyze food delivery data and answer key business questions:
+How is revenue trending over time?
+Which locations and cities drive the most sales?
+What are customer preferences (Veg vs Non-Veg)?
+How do ratings impact sales performance?
 
-Analyze food delivery data to:
-Track sales performance
-Measure customer satisfaction
-Identify top-performing locations and categories
-Monitor order trends over time
+## 📊 Key KPIs Delivered
+💰 Total Sales (₹) – Overall revenue performance
+⭐ Average Rating – Customer satisfaction metric
+🧾 Average Order Value (AOV) – Revenue per order
+📦 Total Orders – Order volume tracking
+🗳️ Ratings Count – Customer engagement indicator
 
-### 📊 Business Requirements (KPIs)
-The following key metrics are used in this project:
-💰 Total Sales (₹) – Overall revenue generated from food orders
-⭐ Average Rating – Customer satisfaction level across all restaurants
-🧾 Average Order Value (₹) – Revenue generated per order
-🗳️ Ratings Count – Total number of customer reviews
-📦 Total Orders – Total number of food orders received
-📈 Dashboard & Analysis
-
-###📅 Time-Based Analysis
-Monthly Sales Trend – Tracks how sales change month by month
-Daily Sales Trend – Analyzes sales across different days of the week
-Weekly Trend Analysis – Identifies consistent or peak sales periods
-Quarterly Performance Summary – Combines sales, ratings, and orders by quarter
-
-### 🍛 Category & Food Analysis
-Total Sales by Food Type (Veg vs Non-Veg)
-→ Compares revenue contribution between food categories
-### 🌍 Location-Based Analysis
-Total Sales by State (Map Visualization)
-→ Displays geographical distribution of revenue
+## 📈 Analytical Approach
+🔹 Data Preparation
+Cleaned and transformed raw CSV data using Pandas
+Handled missing values and formatted date fields
+Created derived columns: Day, Week, Quarter
+🔹 Exploratory Data Analysis (EDA)
+Identified patterns in sales, ratings, and orders
+Analyzed category-wise and location-wise performance
+🔹 Visualization & Dashboarding
+Built an interactive dashboard in Power BI with:
+Monthly, Weekly, and Daily Sales Trends
+Quarterly Performance Summary
+Sales by Food Type (Veg vs Non-Veg)
+State-wise Revenue Distribution (Map)
 Top 5 Cities by Sales
-→ Highlights highest revenue-generating cities
 
-### 🛠️ Tools & Technologies Used
-1.Python (Pandas, NumPy) – Data cleaning & analysis
-2.Power BI – Dashboard creation & visualization
-3.Excel / CSV – Data source
+## 💡 Key Business Insights
+📈 Sales show strong variation across quarters and weeks, indicating seasonal demand
+🥗 Veg items dominate the majority of orders
+🌆 A small number of cities contribute to high revenue concentration
+⭐ Higher-rated dishes tend to perform better, influencing customer choices
+📊 Weekly trends help identify peak order periods
 
-### 📂 Dataset Features
-- <a href="C:\Users\JVMTULASI\Downloads\Swiggy data.xlsx.xlsx"></a>
-The dataset includes:
-1.Order details (date, day, week, quarter)
-2.Restaurant and location information
-3.Food category and dish details
-4.Pricing and ratings data
+## 🛠️ Tech Stack
+Python (Pandas, NumPy) → Data Cleaning & Analysis
+Power BI → Dashboard Development
+Excel / CSV → Data Source
 
-### 🚀 Key Insights
-1.Sales show noticeable variation across months and weeks
-2.Veg items contribute significantly to overall sales
-3.Certain cities dominate in revenue generation
-4.Higher ratings often align with popular dishes
-5.Weekly trends help identify peak business periods
+## 🧠 Skills Demonstrated
+Data Cleaning & Transformation
+Exploratory Data Analysis (EDA)
+KPI Design & Business Metrics
+Data Visualization & Storytelling
+Business Insight Generation
+📂 Project Structure
+swiggy_sales_analysis/
+│── data/                # Raw dataset
+│── notebooks/           # Jupyter notebooks for analysis
+│── dashboard/           # Excel file
+│── README.md            # Project documentation
+## 📌 Why This Project Stands Out
 
-### ⭐ Support
-If you found this project useful, don’t forget to ⭐ the repository!
+✔ End-to-end analytics workflow
+✔ Business-focused KPI design
+✔ Real-world dataset application
+✔ Strong storytelling with data
+✔ Industry-relevant tools (Python + Excel)
+
+
 
 
