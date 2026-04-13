@@ -38,23 +38,24 @@ Top 5 Cities by Sales
 → Highlights highest revenue-generating cities
 
 ### 🛠️ Tools & Technologies Used
-Python (Pandas, NumPy) – Data cleaning & analysis
-Power BI – Dashboard creation & visualization
-Excel / CSV – Data source
-📂 Dataset Features
+1.Python (Pandas, NumPy) – Data cleaning & analysis
+2.Power BI – Dashboard creation & visualization
+3.Excel / CSV – Data source
 
-### The dataset includes:
-Order details (date, day, week, quarter)
-Restaurant and location information
-Food category and dish details
-Pricing and ratings data
+### 📂 Dataset Features
+- <a href="C:\Users\JVMTULASI\Downloads\Swiggy data.xlsx.xlsx"></a>
+The dataset includes:
+1.Order details (date, day, week, quarter)
+2.Restaurant and location information
+3.Food category and dish details
+4.Pricing and ratings data
 
 ### 🚀 Key Insights
-Sales show noticeable variation across months and weeks
-Veg items contribute significantly to overall sales
-Certain cities dominate in revenue generation
-Higher ratings often align with popular dishes
-Weekly trends help identify peak business periods
+1.Sales show noticeable variation across months and weeks
+2.Veg items contribute significantly to overall sales
+3.Certain cities dominate in revenue generation
+4.Higher ratings often align with popular dishes
+5.Weekly trends help identify peak business periods
 
 ### ⭐ Support
 If you found this project useful, don’t forget to ⭐ the repository!
