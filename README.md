@@ -8,7 +8,6 @@ The goal is to understand sales trends, customer satisfaction, and ordering patt
 🎯 Problem Statement
 
 Analyze food delivery data to:
-
 Track sales performance
 Measure customer satisfaction
 Identify top-performing locations and categories
@@ -28,6 +27,7 @@ Monthly Sales Trend – Tracks how sales change month by month
 Daily Sales Trend – Analyzes sales across different days of the week
 Weekly Trend Analysis – Identifies consistent or peak sales periods
 Quarterly Performance Summary – Combines sales, ratings, and orders by quarter
+
 🍛 Category & Food Analysis
 Total Sales by Food Type (Veg vs Non-Veg)
 → Compares revenue contribution between food categories
@@ -36,6 +36,7 @@ Total Sales by State (Map Visualization)
 → Displays geographical distribution of revenue
 Top 5 Cities by Sales
 → Highlights highest revenue-generating cities
+
 🛠️ Tools & Technologies Used
 Python (Pandas, NumPy) – Data cleaning & analysis
 Power BI – Dashboard creation & visualization
@@ -43,26 +44,26 @@ Excel / CSV – Data source
 📂 Dataset Features
 
 The dataset includes:
-
 Order details (date, day, week, quarter)
 Restaurant and location information
 Food category and dish details
 Pricing and ratings data
+
 🚀 Key Insights
 Sales show noticeable variation across months and weeks
 Veg items contribute significantly to overall sales
 Certain cities dominate in revenue generation
 Higher ratings often align with popular dishes
 Weekly trends help identify peak business periods
+
 📌 Future Enhancements
 Add real-time data integration
 Build predictive models for demand forecasting
 Develop recommendation systems
 Enhance dashboard with drill-down insights
-👩‍💻 Author
 
-G Reshma
 
 ⭐ Support
-
 If you found this project useful, don’t forget to ⭐ the repository!
+
+
