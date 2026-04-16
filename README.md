@@ -5,7 +5,7 @@
 - It demonstrates the ability to Work with real-world datasets and build meaningful KPIs.
 - Analyzed 197,430 food delivery records using Python & Power BI to uncover revenue trends, customer behavior, and growth opportunities.
 ## Dataset Used:
-
+- <a href="https://github.com/greshma2005/Swiggy_Sales_Analysis/blob/main/Swiggy%20data.xlsx.xlsx">Dataset</a>
 
 ## 🎯 Business Objective
 - To analyze food delivery data and answer key business questions:
@@ -26,6 +26,8 @@
 - 📦 Processed 197,430 total orders
 - ⭐ Achieved 4.34 average customer rating
 - 🧾 Calculated ₹268.5 Average Order Value (AOV)
+
+- Dashboard Interaction <a href="https://github.com/greshma2005/Swiggy_Sales_Analysis/blob/main/swiggy_dashboard.png">View Dashboard</a>
 
 ## ⚡ Work at Scale
 ### Data Processing
