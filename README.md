@@ -21,7 +21,7 @@
 - 📦 Total Orders – Order volume tracking
 - 🗳️ Ratings Count – Customer engagement indicator
 
-## 📊 Quantified Impact (REAL DATA)
+## 📊 Quantified Impact 
 - 💰 Generated insights from ₹5.30+ Crore total revenue (₹53,012,505)
 - 📦 Processed 197,430 total orders
 - ⭐ Achieved 4.34 average customer rating
