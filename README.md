@@ -61,6 +61,9 @@
 - KPI Design & Business Metrics
 - Data Visualization & Storytelling
 - Business Insight Generation
+  
+ ## Dashboard
+ <img width="1604" height="986" alt="swiggy_dashboard" src="https://github.com/user-attachments/assets/e98ace4b-2f1b-44ce-a7f5-051ad06631da" />
 
 
 
