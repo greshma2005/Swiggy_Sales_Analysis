@@ -2,7 +2,7 @@
 ## 🚀 Project Overview
 
 This project delivers an end-to-end data analytics solution for a food delivery platform by transforming raw order data into actionable business insights and interactive dashboards.
-It demonstrates the ability to Work with real-world datasets and build meaningful KPIs
+It demonstrates the ability to Work with real-world datasets and build meaningful KPIs.
 
 ## 🎯 Business Objective
 To analyze food delivery data and answer key business questions:
@@ -18,28 +18,32 @@ How do ratings impact sales performance?
 📦 Total Orders – Order volume tracking
 🗳️ Ratings Count – Customer engagement indicator
 
-## 📈 Analytical Approach
-🔹 Data Preparation
-Cleaned and transformed raw CSV data using Pandas
-Handled missing values and formatted date fields
-Created derived columns: Day, Week, Quarter
-🔹 Exploratory Data Analysis (EDA)
-Identified patterns in sales, ratings, and orders
-Analyzed category-wise and location-wise performance
-🔹 Visualization & Dashboarding
-Built an interactive dashboard in Power BI with:
-Monthly, Weekly, and Daily Sales Trends
-Quarterly Performance Summary
-Sales by Food Type (Veg vs Non-Veg)
-State-wise Revenue Distribution (Map)
-Top 5 Cities by Sales
+## 📊 Quantified Impact (REAL DATA)
+💰 Generated insights from ₹5.30+ Crore total revenue (₹53,012,505)
+📦 Processed 197,430 total orders
+⭐ Achieved 4.34 average customer rating
+🧾 Calculated ₹268.5 Average Order Value (AOV)
 
-## 💡 Key Business Insights
-📈 Sales show strong variation across quarters and weeks, indicating seasonal demand
+## ⚡ Work at Scale
+### Data Processing
+Cleaned and transformed 197K+ rows
+Handled missing values and inconsistencies
+Created time-based features (Week, Quarter, Day)
+### Data Analysis
+Performed EDA across multiple dimensions (City, Rating, Category, Time)
+Designed 4+ core KPIs
+Identified revenue concentration & customer behavior patterns
+### Dashboard Development
+Built interactive Power BI dashboard
+Visualized 10+ business insights
+Enabled filtering by City, Time, Category
+
+## 📈 Business Insights 
+🌆 Top 5 cities contribute ~32.9% of total revenue
+⭐ Orders with rating >4 generate ~9.5% higher value than lower-rated items
 🥗 Veg items dominate the majority of orders
-🌆 A small number of cities contribute to high revenue concentration
-⭐ Higher-rated dishes tend to perform better, influencing customer choices
-📊 Weekly trends help identify peak order periods
+📊 Weekly sales fluctuate by ~39.4%, indicating strong demand variability
+📈 Large-scale dataset enabled high-confidence trend analysis
 
 ## 🛠️ Tech Stack
 Python (Pandas, NumPy) → Data Cleaning & Analysis
@@ -58,13 +62,7 @@ swiggy_sales_analysis/
 │── notebooks/           # Jupyter notebooks for analysis
 │── dashboard/           # Excel file
 │── README.md            # Project documentation
-## 📌 Why This Project Stands Out
 
-✔ End-to-end analytics workflow
-✔ Business-focused KPI design
-✔ Real-world dataset application
-✔ Strong storytelling with data
-✔ Industry-relevant tools (Python + Excel)
 
 
 
