@@ -5,11 +5,11 @@ This project delivers an end-to-end data analytics solution for a food delivery 
 It demonstrates the ability to Work with real-world datasets and build meaningful KPIs.
 
 ## 🎯 Business Objective
--To analyze food delivery data and answer key business questions:
--How is revenue trending over time?
--Which locations and cities drive the most sales?
--What are customer preferences (Veg vs Non-Veg)?
--How do ratings impact sales performance?
+- To analyze food delivery data and answer key business questions:
+- How is revenue trending over time?
+- Which locations and cities drive the most sales?
+- What are customer preferences (Veg vs Non-Veg)?
+- How do ratings impact sales performance?
 
 ## 📊 Key KPIs Delivered
 💰 Total Sales (₹) – Overall revenue performance
